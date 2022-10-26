@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #D4D925;
+}
+
+fieldset {
+    background-color: #990000;
+}
+
+legend {
+    padding: 5px;
+    color: #990000;
+    border: 2px solid gray;
+    background-color: #D4D925;
+    font-size: 48px;
+}
+
+
+body {
+    background-color: #FFEE63;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 500px;
+    padding-left: 500px;
+
+}
+
+h4 {
+    padding: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+.submit {
+    margin-bottom: 20px;
+    width: 250px;
+    padding: 10px;
+    color: black;
+}
+
+.submit:hover {
+    background-color: #FFEE63;
+}
+
+select {
+    width: 43%;
+    padding: 5px;
+    color: black;
+}
+
+.text1 {
+    width: 40%;
+}
+
+.text2 {
+    width: 80%;
+}
+
+textarea {
+    color: black;
+    margin-bottom: 10px;
+    width: 80%;
+}
